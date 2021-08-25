@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Pages",
-    "\\Properties"
+    "\\Properties",
+    "\\Shared"
   ],
-  "SelectedNode": "\\Pages\\Todo.razor",
+  "SelectedNode": "\\Shared\\SurveyPrompt.razor",
   "PreviewInSolutionExplorer": false
 }
